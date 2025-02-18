@@ -36,7 +36,7 @@ Proyecto Educativo de aprendizaje del programa ONE - Oracle Next Education /Alur
 
 ------------
 
-##⭐Autores y Agradecimientos
+## ⭐Autores y Agradecimientos
 Desarrollado Por Sebastian Guzman.
 Agradecimiento al programa ONE - Oracle Next Education / Alura Latam y los intructores
 
