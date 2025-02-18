@@ -1,4 +1,4 @@
-#Challenge-amigo-secreto_esp-main
+#⭐Challenge-amigo-secreto_esp-main⭐
 
 Juego del amigo secreto, se ingresan nombres de personas, se guardan en una lista. se selecciona uno al azar y se mostrara en pantalla
 
